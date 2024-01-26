@@ -1,0 +1,4 @@
+[submodule "models"]
+	path = models
+	url = git@github.com:nemolatam/models.git
+	branch = dev
